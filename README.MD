@@ -1,0 +1,1 @@
+Library/Preferences/app/colors
